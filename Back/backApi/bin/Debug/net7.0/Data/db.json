@@ -1,0 +1,94 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "jsonserver",
+      "email": "typicode",
+      "senha": "123"
+    },
+    {
+      "id": 2,
+      "nome": "asdfasdf",
+      "email": "sdafasdf",
+      "senha": "asdfa"
+    },
+    {
+      "id": 3,
+      "nome": "marcos",
+      "email": "marcos@hotamil.com",
+      "senha": "12w"
+    },
+    {
+      "id": 4,
+      "nome": "marcos",
+      "email": "marcos@hotamil.com",
+      "senha": "12w"
+    },
+    {
+      "id": 5,
+      "nome": "marcos4",
+      "email": "marcos@hotamil.com4",
+      "senha": "12w4"
+    },
+    {
+      "id": 6,
+      "nome": "sasuke",
+      "email": "ho@hotmial.",
+      "senha": "123"
+    },
+    {
+      "id": 7,
+      "nome": "sadfasdf",
+      "email": "danilo@hotmail.com",
+      "senha": "123"
+    },
+    {
+      "id": 8,
+      "nome": "sadf",
+      "email": "sadf@dafs",
+      "senha": "d"
+    },
+    {
+      "id": 9,
+      "nome": "",
+      "email": "",
+      "senha": ""
+    },
+    {
+      "id": 10,
+      "nome": "",
+      "email": "",
+      "senha": ""
+    },
+    {
+      "id": 11,
+      "nome": "",
+      "email": "",
+      "senha": ""
+    },
+    {
+      "id": 12,
+      "nome": "",
+      "email": "",
+      "senha": ""
+    },
+    {
+      "id": 13,
+      "nome": "",
+      "email": "",
+      "senha": ""
+    },
+    {
+      "id": 14,
+      "nome": "ddd",
+      "email": "",
+      "senha": ""
+    },
+    {
+      "id": 15,
+      "nome": "",
+      "email": "",
+      "senha": ""
+    }
+  ]
+}
